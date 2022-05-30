@@ -1,2 +1,2 @@
 #!/bin/bash
-tail -n 1 iacta | cat >> iacta task 9
+find . -name "*.js" -type f -delete
