@@ -1,2 +1,2 @@
 #!/bin/bash
-utf-8U3210  #"!
+printf "%x\n" $DECIMAL!
